@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seitentaisei1304" alt="seitentaisei1304" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@anshbeast" target="blank"><img src="https://img.shields.io/twitter/follow/@anshbeast?logo=twitter&style=for-the-badge" alt="@anshbeast" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anshbeast" target="blank"><img src="https://img.shields.io/twitter/follow/anshbeast?logo=twitter&style=for-the-badge" alt="anshbeast" /></a> </p>
 
 - 👨‍💻 To look at my portfolio [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@anshbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anshbeast" height="30" width="40" /></a>
+<a href="https://twitter.com/anshbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshbeast" height="30" width="40" /></a>
 <a href="https://instagram.com/beastboyansh_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beastboyansh_27" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srmk_104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmk_104" height="30" width="40" /></a>
 </p>
