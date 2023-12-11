@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://app.gemoo.com/share/image-annotation/592808612807659520?codeId=Ml28kqgOGZAyE&origin=imageurlgenerator&card=592808610723090432">
+![Ansh Singh](https://github.com/SeitenTaisei1304/SeitenTaisei1304/assets/103646045/230d2871-1b7c-41ef-9a9f-f649dc13103c)
 
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
