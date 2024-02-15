@@ -19,7 +19,7 @@ I'm currently studying at SRM University<br>I'm learning various coding language
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SeitenTaisei1304&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️  "quote-unquote"
+### ✍️  "Quote-Unquote"
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
