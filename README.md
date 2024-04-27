@@ -5,7 +5,7 @@
 
 I'm currently studying at SRM University<br>I'm learning various coding languages and AI/ML<br>You can ask me about Python, C, C++, Java, HTML, and MySQL.<br>Fun Fact I am more than capable.
 
-[![](https://visitcount.itsvg.in/api?id=SeitenTaisei1304&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SeitenTaisei1304&icon=2&color=2)](https://visitcount.itsvg.in)
 ## 🌐 Socials :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100022693575269) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BeastBoyAnsh_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-singh-a12845241) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Seiten-Taisei-4) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19108820) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnshBeast) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anshsingh66882) 
 
