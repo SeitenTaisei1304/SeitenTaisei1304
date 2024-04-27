@@ -27,5 +27,4 @@ I'm currently studying at SRM University<br>I'm learning various coding language
 ![](https://github-contributor-stats.vercel.app/api?username=SeitenTaisei1304&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Memes
-<img src='https://codermemes.vercel.app/#2' style="height: 400px;"/>
-
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
