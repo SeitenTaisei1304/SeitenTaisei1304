@@ -1,4 +1,4 @@
-![Ansh Singh](<"https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+John+Dale+👨‍💻;" style="max-width: 100%;">)
+![Ansh Singh](<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Ansh+Singh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>)
 
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
