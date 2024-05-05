@@ -1,4 +1,4 @@
-![Ansh Singh](https://github.com/SeitenTaisei1304/SeitenTaisei1304/assets/103646045/230d2871-1b7c-41ef-9a9f-f649dc13103c)
+![Ansh Singh](https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+John+Dale+👨‍💻;" style="max-width: 100%)
 
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
