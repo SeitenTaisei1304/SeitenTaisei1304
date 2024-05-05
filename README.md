@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Ansh+Singh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+To+My+GitHub+Page" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Ansh+Singh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+To+My+GitHub+Page" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
