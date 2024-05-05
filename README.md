@@ -18,7 +18,7 @@ I'm currently studying at SRM University, I am in my 3rd year<br>I'm learning va
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeitenTaisei1304&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SeitenTaisei1304&theme=matrix&no-frame=false&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=SeitenTaisei1304&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️  "Quote-Unquote"
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
@@ -27,4 +27,4 @@ I'm currently studying at SRM University, I am in my 3rd year<br>I'm learning va
 ![](https://github-contributor-stats.vercel.app/api?username=SeitenTaisei1304&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Memes
-<img src='https://codermemes.vercel.app' style="height: 400px;"/>
+<img src='https://codermemes.vercel.app/' style="height: 400px;"/>
