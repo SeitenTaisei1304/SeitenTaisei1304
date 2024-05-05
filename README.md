@@ -27,4 +27,4 @@ I'm currently studying at SRM University, I am in my 3rd year<br>I'm learning va
 ![](https://github-contributor-stats.vercel.app/api?username=SeitenTaisei1304&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Memes
-<img src='https://codermemes.vercel.app/#1' style="height: 400px;"/>
+<img src='https://codermemes.vercel.app/#2' style="height: 400px;"/>
