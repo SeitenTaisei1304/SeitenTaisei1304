@@ -1,4 +1,4 @@
-![Ansh Singh](https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+Ansh+Singh+👨‍💻;"style="max-width:100%")
+![Ansh Singh](<img src="https://camo.githubusercontent.com/82a27c245f19adfa0577dd6cc9c0575f14a62d5d2299b3cca858707cddc53a63/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b4a6f686e2b44616c652bf09f91a8e2808df09f92bb3b" data-canonical-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+John+Dale+👨‍💻;" style="max-width: 100%;">)
 
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
