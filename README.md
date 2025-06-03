@@ -3,7 +3,7 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm currently studying at SRM University, I am in my 3rd year<br>I'm learning various coding languages and learning for my future endeavors AI/ML<br>You can ask me anything about Python, C, C++, HTML & MySql.<br>Fun Fact I am more than capable....
+I'm currently studying at SRM University, I am in my 3rd year<br>I'm learning various coding languages and learning for my future endeavours, AI/ML.<br>You can ask me anything about Python, C, C++, HTML & MySQL.<br>Fun Fact I am more than capable....
 
 
 [![](https://visitcount.itsvg.in/api?id=SeitenTaisei1304&icon=0&color=1)](https://visitcount.itsvg.in)
